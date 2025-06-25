@@ -1,4 +1,4 @@
-Web and Mobile Developer
+Web and Mobile Developer,
 OSS Contributor
 
 <!--- - 👋 Hi, I’m @AbiodunVlad
